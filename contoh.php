@@ -1,1 +1,1 @@
-//percobaan pertama untuk Git 
+//percobaan repository
